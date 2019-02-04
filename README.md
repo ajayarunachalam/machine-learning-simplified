@@ -3,6 +3,6 @@ Understanding machine learning in lay terms. Implementing perceptron ml algorith
 
 What is *machine learning* in Machine Learning?
 
-An illustration to understand the simple concepts, and building the very first machine learning algorithm
+An illustration to understand the concepts, and building the very first machine learning algorithm
 
 Video tutorial series (PART1-PART6) for the same can be found at https://youtu.be/JniWWJCV10Y
